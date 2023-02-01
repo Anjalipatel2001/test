@@ -11,6 +11,8 @@ int main()
     getline(cin , name);
     cout <<"Please enter your age" << endl;
     cin >> age;
+    cout <<"Enter your salary" << endl;
+    cout << "I am" <<' ' << name <<' ' << "and i am"<<' '<< age <<"years old" << endl;
 return 0;
 }
 
