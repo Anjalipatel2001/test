@@ -4,15 +4,7 @@ using namespace std;
 
 int main()
 {
-    string name;
-    int age;
-    cout <<"Hello world" << endl;
-    cout <<"Please enter your name:" << endl;
-    getline(cin , name);
-    cout <<"Please enter your age" << endl;
-    cin >> age;
-    cout <<"enter your city as well" << endl;
-    cout <<"add country"<<endl;
+    cout <<"Hello" <<endl;
 return 0;
 }
 
