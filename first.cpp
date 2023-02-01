@@ -11,13 +11,9 @@ int main()
     getline(cin , name);
     cout <<"Please enter your age" << endl;
     cin >> age;
-<<<<<<< HEAD
-    cout <<"enter your city as well" << endl;
-=======
-    cout <<"Enter your salary" << endl;
-    cout << "I am" <<' ' << name <<' ' << "and i am"<<' '<< age <<"years old" <<endl;
+    cout <<"enter your city as well" << endl; 
     cout <<"my salary is twenty thousand rupees" << endl;
->>>>>>> master
+    cout <<"my birth year is 2001" <<endl;
 return 0;
 }
 
