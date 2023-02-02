@@ -12,6 +12,7 @@ int main()
     cout <<"Please enter your age" << endl;
     cin >> age;
     cout <<"my birth year is 2001" <<endl;
+    cout <<"hello anjali";
 return 0;
 }
 
